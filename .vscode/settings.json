@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/906a165a-cefe-463d-9cce-940dae59bf22/resourceGroups/G2_Group12_Rabe/providers/Microsoft.Web/sites/Rabe-KopiKrumbleReservation",
+    "appService.deploySubpath": "."
+}
